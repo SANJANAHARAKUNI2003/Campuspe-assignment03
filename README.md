@@ -4,8 +4,8 @@
 ### APIs Used
 
 1. Groq API  [Visit GitHub](groq-chatbot)
-2. OpenAI API
-3. Hugging Face API
-4. Google Gemini API
-5. Cohere API
+2. OpenAI API [Visit GitHub]()
+3. Hugging Face API [Visit GitHub]()
+4. Google Gemini API [Visit GitHub]()
+5. Cohere API [Visit GitHub]()
 
