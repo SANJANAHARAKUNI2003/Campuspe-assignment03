@@ -3,7 +3,7 @@
 ## This Assignment contains terminal-based chatbots built using different AI APIs.
 ### APIs Used
 
-1. Groq API [Visit GitHub]
+1. Groq API  [Visit GitHub](groq-chatbot)
 2. OpenAI API
 3. Hugging Face API
 4. Google Gemini API
