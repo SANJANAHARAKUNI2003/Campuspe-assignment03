@@ -4,10 +4,9 @@
 ### APIs Used
 
 1. Groq API  [Visit GitHub](groq-chatbot)
-2. OpenAI API [Visit GitHub](openai-chatbot)
-3. Hugging Face API [Visit GitHub](huggingface-chatbot)
-4. Google Gemini API [Visit GitHub](googlegemini-chatbot)
-5. Cohere API [Visit GitHub](cohere-chatbot)
+2. Hugging Face API [Visit GitHub](huggingface-chatbot)
+3. Google Gemini API [Visit GitHub](googlegemini-chatbot)
+4. Cohere API [Visit GitHub](cohere-chatbot)
 
 ---
 ## Project Structure
@@ -16,11 +15,6 @@ chatbots/
 │
 ├── groq-chatbot/
 │   ├── groq-api.py
-│   ├── requirements.txt
-│   └── venv/
-│
-├── openai-chatbot/
-│   ├── openai-api.py
 │   ├── requirements.txt
 │   └── venv/
 │
@@ -58,7 +52,6 @@ chatbots/
 ### Create a `.env` file using `.env.example` and add your API keys.
 
 Example:
-OPENAI_API_KEY=your_key
 GROQ_API_KEY=your_key
 HF_API_KEY=your_key
 COHERE_API_KEY=your_key
