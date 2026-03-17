@@ -73,10 +73,10 @@ GEMINI_API_KEY=your_key
               - (Mac/linux): `source .venv/bin/activate`
 4. Install dependencies: `pip install -r requirements.txt`
 5. Run any api module
-     - groq : `python groq-chatbot/groq-api.py`
-     - cohere : `python cohere-chatbot/cohere-api.py`
-     - google gemini : `python googlegemini-chatbot/googlegemini-api.py`
-     - hugging face : `python huggingface-chatbot/huggingface-api.py`
+     - groq : `python groq-api.py`
+     - cohere : `python cohere-api.py`
+     - google gemini : `python googlegemini-api.py`
+     - hugging face : `python huggingface-api.py`
 
 
 ---
