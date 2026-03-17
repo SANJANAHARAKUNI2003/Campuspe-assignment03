@@ -58,15 +58,18 @@ COHERE_API_KEY=your_key
 GEMINI_API_KEY=your_key
 
 ---
-## 3. Install Dependencies (Example: Groq Chatbot)
+## 3. Install Dependencies 
 
-1. Navigate to the chatbot folder: `cd groq-chatbot`
+1. Navigate to the chatbot folder: `cd campus-pe\assignment-03-Sanjana_pralhad_harakuni\chatbots`
 2. Create virtual environment: `python -m venv venv`
 3. Activate virtual environment (Windows): `venv\Scripts\activate`
 4. Install dependencies: `pip install -r requirements.txt`
-5. Run the chatbot: `python groq-api.py`
+5. Run any api module
+     - groq : `python groq-chatbot/groq-api.py`
+     - cohere : `python cohere-chatbot/cohere-api.py`
+     - google gemini : `python googlegemini-chatbot/googlegemini-api.py`
+     - hugging face : `python huggingface-chatbot/huggingface-api.py`
 
-Repeat the same steps for other chatbot folders.
 
 ---
 ## Chatbot Screenshots
