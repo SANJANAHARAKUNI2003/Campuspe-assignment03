@@ -83,24 +83,25 @@ Example:
 
 ---
 ## Chatbot Screenshots
-Groq Chatbot
+---
+### Groq Chatbot
 
 ![Chatbot Output](images/groq.png)
 
-Cohere Chatbot
+### Cohere Chatbot
 
 ![Chatbot Output](images/cohere.png)
 
-HuggingFace Chatbot
+### HuggingFace Chatbot
 
 ![Chatbot Output](images/huggingface.png)
 
-Google gemini Chatbot
+### Google gemini Chatbot
 
 ![Chatbot Output](images/googlegemini.png)
 
 
-Multi api Chatbot
+### Multi api Chatbot
 
 ![Chatbot Output](images/multi_api.png)
 
