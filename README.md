@@ -58,10 +58,10 @@ chatbots/
 ### Create a `.env` file using `.env.example` and add your API keys.
 
 Example:
-GROQ_API_KEY=your_key
-HF_API_KEY=your_key
-COHERE_API_KEY=your_key
-GEMINI_API_KEY=your_key
+-GROQ_API_KEY=your_key
+-HF_API_KEY=your_key
+-COHERE_API_KEY=your_key
+-GEMINI_API_KEY=your_key
 
 ---
 ## 3. Install Dependencies 
@@ -77,9 +77,12 @@ GEMINI_API_KEY=your_key
      - cohere : `python cohere-api.py`
      - google gemini : `python googlegemini-api.py`
      - hugging face : `python huggingface-api.py`
+     - multi apinchatbot : `streamlit run multi-api-query.py `
 
 
 ---
 ## Chatbot Screenshots
 Groq Chatbot
+
+![Chatbot Output](images/groq.png)
 
