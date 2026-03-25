@@ -45,7 +45,7 @@ chatbots/
 - Generate and Copy and save it securely
 
  ### Hugging Face Token
- - Visit: https://huggingface.co/settings/tokens
+ - Visit: https://huggingface.co/models
  - Sign in with Google account
  - Generate and Copy and save it securely
 
