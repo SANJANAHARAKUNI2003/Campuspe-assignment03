@@ -3,10 +3,11 @@
 ## This Assignment contains terminal-based chatbots built using different AI APIs.
 ### APIs Used
 
-1. Groq API  [Visit GitHub](groq-chatbot)
-2. Hugging Face API [Visit GitHub](huggingface-chatbot)
-3. Google Gemini API [Visit GitHub](googlegemini-chatbot)
-4. Cohere API [Visit GitHub](cohere-chatbot)
+1. Groq API  [Visit GitHub](groq-api.py)
+2. Hugging Face API [Visit GitHub](huggingface-api.py)
+3. Google Gemini API [Visit GitHub](googlegemini-api.py)
+4. Cohere API [Visit GitHub](cohere-api.py)
+   
 
 ---
 ## Project Structure
@@ -58,10 +59,10 @@ chatbots/
 ### Create a `.env` file using `.env.example` and add your API keys.
 
 Example:
--GROQ_API_KEY=your_key
--HF_API_KEY=your_key
--COHERE_API_KEY=your_key
--GEMINI_API_KEY=your_key
+- GROQ_API_KEY=your_key
+- HF_API_KEY=your_key
+- COHERE_API_KEY=your_key
+- GEMINI_API_KEY=your_key
 
 ---
 ## 3. Install Dependencies 
@@ -85,4 +86,22 @@ Example:
 Groq Chatbot
 
 ![Chatbot Output](images/groq.png)
+
+Cohere Chatbot
+
+![Chatbot Output](images/cohere.png)
+
+HuggingFace Chatbot
+
+![Chatbot Output](images/huggingface.png)
+
+Google gemini Chatbot
+
+![Chatbot Output](images/googlegemini.png)
+
+
+Multi api Chatbot
+
+![Chatbot Output](images/multi_api.png)
+
 
